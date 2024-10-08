@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil
 
-<!--
-**joaoespector15/joaoespector15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Lucas
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- ultilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar em contato comigo 📫
+
+  abreu.silva.joao@escola.pr.gov.br
+
+
+
+  ![](https://media1.tenor.com/m/3l8ei9EsCvEAAAAC/sukuna-is-a-goober.gif)
